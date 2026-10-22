@@ -1,0 +1,14 @@
+{
+  "name": "KR Photography Dharmavaram",
+  "short_name": "KR Photography",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#090909",
+  "theme_color": "#090909",
+  "description": "Wedding, events, candid, cinematic, drone, albums and premium photo frames by KR Photography, Dharmavaram.",
+  "icons": [
+    {"src":"icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
