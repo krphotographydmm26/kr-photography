@@ -1,0 +1,60 @@
+లోకేష్-లలిత వెడ్డింగ్
+
+<!DOCTYPE html>
+<html lang="te">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>లోకేష్ ❤️ లలిత | పెండ్లి పిలుపు</title>
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif+Telugu:wght@400;600;700&display=swap');
+*{box-sizing:border-box}
+body{margin:0;background:#350b19;color:#ffe8ae;font-family:'Noto Serif Telugu',serif;text-align:center}
+.card{max-width:650px;margin:24px auto;padding:28px 18px;border:3px double #d9ad55;border-radius:20px;background:linear-gradient(145deg,#64172b,#300916);box-shadow:0 0 30px #16030a}
+.top{font-size:20px;color:#f5ce77}
+h1{font-size:30px;color:#ffdc8b;margin:18px 0}
+.names{font-size:35px;font-weight:bold;color:#fff0c6;margin:28px 0}
+.heart{color:#ff9e9e}
+h2{font-size:22px;color:#ffcf70;margin-bottom:8px}
+.section{border-top:1px solid #b78a4c;margin-top:25px;padding-top:18px;font-size:18px;line-height:2}
+.date{font-size:22px;color:#fff0bd;font-weight:bold}
+a,button{display:inline-block;background:#e9c16c;color:#451020;padding:12px 20px;border-radius:25px;text-decoration:none;border:0;font-size:16px;margin:10px;font-family:inherit}
+.small{font-size:15px;line-height:1.9}
+</style>
+</head>
+<body>
+<div class="card">
+<div class="top">🪔 శ్రీ గణేశాయ నమః 🪔</div>
+<h1>బండి వారి పెండ్లి పిలుపు</h1>
+<p>ఆత్మీయులందరికీ మా వివాహ శుభలేఖ ఆహ్వానం</p>
+<div class="names">లోకేష్ <span class="heart">♥</span> లలిత</div>
+<p>మీ అమూల్యమైన ఆశీస్సులతో మా వివాహ వేడుకకు విచ్చేసి వధూవరులను ఆశీర్వదించవలసిందిగా మనవి.</p>
+
+<div class="section">
+<h2>🌸 రిసెప్షన్ 🌸</h2>
+<div class="date">11-12-2026 | శుక్రవారం</div>
+రాత్రి 7:00 గంటలకు
+</div>
+
+<div class="section">
+<h2>💐 సుముహూర్తం 💐</h2>
+<div class="date">12-12-2026 | శనివారం</div>
+ఉదయం 7:30 నుండి 8:30 గంటల లోపు
+</div>
+
+<div class="section">
+<h2>📍 వేదిక</h2>
+<strong>B V R గార్డెన్స్</strong><br>
+బత్తలపల్లి రోడ్, ధర్మవరం
+<br>
+<a href="https://www.google.com/maps/search/?api=1&query=B+V+R+Gardens%2C+Bathalapalli+Road%2C+Dharmavaram" target="_blank">వేదికకు దారి చూపించు</a>
+</div>
+
+<div class="section small">
+మీ రాకే మా ఆనందం.<br>
+మీ ఆశీస్సులే మా సంపద. 🙏
+</div>
+<button onclick="navigator.share({title:'లోకేష్ ❤️ లలిత వివాహ ఆహ్వానం',url:location.href})">వాట్సాప్‌లో షేర్ చేయండి</button>
+</div>
+</body>
+</html>
